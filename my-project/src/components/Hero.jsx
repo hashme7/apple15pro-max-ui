@@ -32,7 +32,6 @@ const Hero = () => {
         </div>
       </div>
       <div id='cta' className='flex flex-col items-center'>
-         
       </div>
     </section>
   )
